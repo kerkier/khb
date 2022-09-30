@@ -5,7 +5,7 @@
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzAwMC90di9oaC50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcva2Vya2llci9naGIvbWFpbi90di9oaC50eHQ="]
 		}]
 	}],
 	"sites": [
