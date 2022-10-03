@@ -236,6 +236,11 @@ PLUTO_ENCRYPT {
 		"url": "https://play.fuqizhishi.com/qunyou/API.php?appkey=Qqun493192284zhuanyongqingwushangchuanwangluochuanbo&url="
 	}, 	
 	{
+	    "name":"云you",
+	    "type":1,
+	    "url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+	},
+	{
 		"name": "GGTV自用",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
