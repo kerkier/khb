@@ -181,6 +181,7 @@ PLUTO_ENCRYPT {
 		{"key":"csp_xpath_xqmi","name":"🦟小强迷","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/kerkier/ghb/main/json/xqm.json"},
 		{"key":"mtv_zh_ccchys","name":"💢CV影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
 		{"key":"饭团HD","name":"🍙饭团影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/kerkier/ghb/main/json/饭团影视.json"},
+		{"key": "csp_xpath_112", "name": "⛑🛠工人影视", "type": 3, "api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://raw.fastgit.org/kerkier/ghb/main/json/grys.json"},
 
 		{"key":"感谢桉佬","name":"🖌️按佬T4┃搜索","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 		{"key":"天堂资源","name":"🍬天堂┃官采","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
