@@ -77,7 +77,7 @@ PLUTO_ENCRYPT {
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=./hh.txt"]
+			"urls": ["proxy://do=live&type=txt&ext=Li9oaC50eHQ="]
 		}]
 	}],
 	"drives": [
