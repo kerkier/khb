@@ -1,5 +1,5 @@
 PLUTO_ENCRYPT {
-	"plugin": "https://raw.fastgit.org/kerkier/ghb/main/jar/hh.jar;md5;709d58df2f7c58d439e74212a11be7fa",
+	"plugin": "https://agit.ai/kerkier/khb/raw/branch/main/jar/hh.jar;md5;709d58df2f7c58d439e74212a11be7fa",
 	"subtitle": {
 		"color": "#FFFFFF",
 		"size": "18"
