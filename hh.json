@@ -1,5 +1,5 @@
 PLUTO_ENCRYPT {
-	"plugin": "./jar/hh.jar;md5;48c4cbca73b33274fea2d156603a6b0b",
+	"plugin": "./jar/hh.jar;md5;57ad7f0b01981ebfeebd1258f3dee766",
 	"subtitle": {
 		"color": "#FFFFFF",
 		"size": "18"
@@ -260,14 +260,24 @@ PLUTO_ENCRYPT {
 		"type": 2,
 		"url": "Sequence"
 	},
-	//{"name": "GGTV","type": 1,"url": "https://play.fuqizhishi.com/jx1/API.php?appkey=iiiixiaobai&url="},
-	//{"name": "GGTV聚合","type": 1,"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 	{"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
     {"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
     {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
-	{"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="}
-	],
+	{"name": "江湖解析","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
+	{"name" : "keyu","type" : 1,"url" : "http://newjiexi.gotka.top/keyu3.php?url=","ext" : {"header" : {"User-Agent" : "okhttp/4.1.0"}}},
+    {"name" : "荣兴","type" : 1,"url" : "http://jx.dygfsdy.com/home/api?type=ys&uid=129415&key=acdmoruwxCDEKPZ679&url="},
+    {"name" : "xmflv","type" : 0,"url" : "https://jx.xmflv.com/?url="},
+    {"name" : "freejson","type" : 0,"url" : "https://h5.freejson.xyz/player/?url="},
+    {"name" : "365","type" : 0,"url" : "https://chaxun.truechat365.com/?url="},
+    {"name" : "parwix稳定","type" : 0,"url" : "https://jx.bozrc.com:4433/player/?url="},
+    {"name" : "parwix1","type" : 0,"url" : "https://jx.parwix.com:4433/player/?url="},
+    {"name" : "夜幕","type" : 0,"url" : "https://www.yemu.xyz/?url="},
+    {"name" : "8090","url" : "https://www.8090g.cn/?url="},
+    {"name" : "油果","type" : 1,"url" : "http://json.youguo520.top/fufeng/?url=","ext" : {"header" : {"User-Agent" : "Dart/2.14(dart:io)"}}},
+    {"name" : "懒懒1","type" : 1,"url" : "http://123.57.56.94:9931/lanlan/?url="},
+    {"name" : "EXO","type" : 0,"url" : "https://rx.69mj.com/?url="},
+    {"name" : "懒懒2","type" : 1,"url" : "http://lanlan.ckflv.cn/?url="}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk": [{
 		"group": "软解码",
