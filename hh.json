@@ -1,5 +1,5 @@
 PLUTO_ENCRYPT {
-	"plugin": "./jar/hh.jar;md5;57ad7f0b01981ebfeebd1258f3dee766",
+	"plugin": "./jar/hh.jar;md5;a91aeb95134dbe8f9feff032a63e6c3d",
 	"subtitle": {
 		"color": "#FFFFFF",
 		"size": "18"
@@ -136,7 +136,7 @@ PLUTO_ENCRYPT {
 		{"key":"Upyunso","name":"🦶云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
 		{"key":"csp_KanSJ","name":"🛰看视界┃SP","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},	
         {"key":"csp_apple","name":"🍎小苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Cokemv","name":"⛲COKEMV┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Cokemv","name":"⛲COKEMV┃SP","type":3,"api":"csp_Cokemv","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
         {"key":"csp_Lib","name": "👐LIBvio┃SP","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Auete","name":"🐼Auete┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
         //{"key":"csp_SP293","name":"🎟293┃SP","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
@@ -145,11 +145,12 @@ PLUTO_ENCRYPT {
         {"key":"csp_jihuang","name":"🎭剧荒影视┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_555","name":"5️⃣555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_ZJMiao","name":"🐈追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Zjdr","name":"🥷追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"IKan","name":"👁‍🗨爱看影视┃SP","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Zjdr","name":"🥷追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
+        {"key":"IKan","name":"👁‍🗨爱看影视┃SP","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
         {"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_EEEDY","name":"☘️EEEDY┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-		{"key":"csp_Smdyy","name": "🐎神马影视┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+		{"key":"csp_Smdyy","name": "🐎神马影视┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
+		{"key":"csp_Lgyy","name": "🌈蓝光影院┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
 		{"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzgxOSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xM1QxNjowMjo1NC4yOTMrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTEzVDE2OjAyOjU0LjI5MyswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjM1MTY3NzM4MThAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOTBkNGZkZTgtM2U0NC00MDExLTlhZjItZDNhMGEwYTM1ZTc4IiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjM2NjExMTgsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.7Rli6KT1wklDdLzKXtOlIjgeJouFdYswGc30t_iXoEw"},
         {"key":"csp_Yj1211","name": "📽直播合集┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Anime1","name": "🌸日漫合集┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -245,8 +246,8 @@ PLUTO_ENCRYPT {
 		{"key":"dr_人人影视","name":"👨🏻人人影视┃DR","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
 		{"key":"dr_TV云播","name":"💿TV云播┃DR","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
 		
-		 //{"key":"csp_Alist","name":"🎾Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
-		//{"key":"csp_bendi","name":"🏓本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
+		{"key":"csp_Alist","name":"🎾Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
+		{"key":"csp_bendi","name":"🏓本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 		{"key":"push_agent","name":"🎯推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"}
 ],
 	"parses": [{
