@@ -139,8 +139,8 @@
 		{"key":"dr_人人影视","name":"👨🏻人人影视┃DR","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":2,"quickSearch":0,"filterable":0},
 		{"key":"dr_TV云播","name":"💿TV云播┃DR","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":2,"quickSearch":0,"filterable":0},
 		
-		 //{"key":"csp_Alist","name":"🎾Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
-		//{"key":"csp_bendi","name":"🏓本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
+		{"key":"csp_Alist","name":"🎾Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
+		{"key":"csp_bendi","name":"🏓本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
 		{"key":"push_agent","name":"🎯推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"}
 ],
 	"parses": [{
