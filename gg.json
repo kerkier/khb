@@ -173,7 +173,10 @@
     {"name" : "油果","type" : 1,"url" : "http://json.youguo520.top/fufeng/?url=","ext" : {"header" : {"User-Agent" : "Dart/2.14(dart:io)"}}},
     {"name" : "懒懒1","type" : 1,"url" : "http://123.57.56.94:9931/lanlan/?url="},
     {"name" : "EXO","type" : 0,"url" : "https://rx.69mj.com/?url="},
-    {"name" : "懒懒2","type" : 1,"url" : "http://lanlan.ckflv.cn/?url="}],
+    {"name" : "懒懒2","type" : 1,"url" : "http://lanlan.ckflv.cn/?url="},
+    {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk": [{
 		"group": "软解码",
