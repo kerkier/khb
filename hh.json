@@ -1,78 +1,6 @@
-PLUTO_ENCRYPT {
-	"plugin": "./jar/hh.jar;md5;44861ec36ed44ed550fd62ebd0769905",
-	"subtitle": {
-		"color": "#FFFFFF",
-		"size": "18"
-	},
-	"homepage": "https://yingyingtv.cn/",
+{
+    "spider": "./jar/hh.jar;md5;5f8fc214f8bda7598a1c4387f7062f2e",
 	"wallpaper": "http://刚刚.live/图",
-	"recommend": [{
-		"name": "豆瓣推荐",
-		"request": {
-			"method": "GET",
-			"header": [{
-				"key": "Referer",
-				"value": "https://movie.douban.com/"
-			}],
-			"url": {
-				"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
-			}
-		},
-		"response": {
-			"result": "$.data",
-			"data": [{
-				"key": "name",
-				"value": "title"
-			}, {
-				"key": "note",
-				"value": "rate"
-			}, {
-				"key": "pic",
-				"value": "cover"
-			}]
-		},
-		"expires": "86400"
-	}],
-	"rating": [{
-		"name": "rating",
-		"request": {
-			"method": "GET",
-			"url": {
-				"raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
-			}
-		},
-		"response": {
-			"result": "this",
-			"data": [{
-				"key": "rating",
-				"value": "doubanRating"
-			}]
-		}
-	}],
-	"hotSearch": [{
-    "name": "mobilesearch",
-    "request": {
-      "method": "GET",
-      "header": [
-        {
-          "key": "Referer",
-          "value": "https://www.douban.com/"
-        }
-      ],
-      "url": {
-        "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
-      }
-    },
-    "response": {
-        "result": "$.data",
-        "data": [
-          {
-            "key": "keyword",
-            "value": "title"
-          }
-        ]
-    }
-}],
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
@@ -80,40 +8,6 @@ PLUTO_ENCRYPT {
 			"urls": ["proxy://do=live&type=txt&ext=./hh.txt"]
 		}]
 	}],
-	"drives": [
-        {"name":"Adult","server":"https://drive.9t.ee","userName":"","password":"","type":"alist"},
-        {"name":"非盘","server":"http://www.feifwp.top","userName":"","password":"","type":"alist"},
-        {"name":"米奇妙妙屋","server":"https://anime.mqmmw.ga","userName":"","password":"","type":"alist"},
-        {"name":"小光盘","server":"https://alist.xiaoguanxiaocheng.life","userName":"","password":"","type":"alist"},
-        {"name":"帅盘","server":"https://hi.shuaipeng.wang","userName":"","password":"","type":"alist"},
-        {"name":"资源小站","server":"https://960303.xyz","userName":"","password":"","type":"alist"},
-        {"name":"轻弹浅唱","server":"https://g.xiang.lol","userName":"","password":"","type":"alist"},
-        {"name":"晴园的宝藏库","server":"https://alist.52qy.repl.co","userName":"","password":"","type":"alist"},
-        {"name":"嗨翻","server":"https://pan.hikerfans.com","userName":"","password":"","type":"alist"},
-        {"name":"一只鱼","server":"https://alist.youte.ml","userName":"",
-"password":"","type":"alist"},
-        {"name":"听闻网盘","server":"https://wangpan.sangxuesheng.com","userName":"","password":"","type":"alist"},             {"name":"菊花盘","server":"https://pan.142856.xyz","userName":""
-,"password":"","type":"alist"},                           {"name":"神族九帝","server":"https://alist.shenzjd.com","userName":"","password":"","type":"alist"},
-        {"name":"路白雪の资源小站","server":"https://pan.jlbx.xyz","userName":"","password":"","type":"alist"},
-        {"name":"七米蓝","server":"https://al.chirmyram.com","userName":
-"","password":"","type":"alist"},
-        {"name":"梓澪の妙妙屋","server":"https://xn--i0v44m.xyz","userName":"","password":"","type":"alist"},
-        {"name":"DISK","server":"http://124.222.140.243:8080","userName":"","password":"","type":"alist"},
-        {"name":"云播放","server":"https://quanzi.laoxianghuijia.cn","userName":"","password":"","type":"alist"},
-        {"name":"星梦","server":"https://pan.bashroot.top","userName":"","password":"","type":"alist"},
-        {"name":"小江","server":"https://dyj.me","userName":"","password":"","type":"alist"},
-        {"name":"触光","server":"https://pan.ichuguang.com","userName":"","password":"","type":"alist"},
-        {"name":"好汉吧","server":"https://8023.haohanba.cn","userName":"","password":"","type":"alist"},
-        {"name":"AUNEY","server":"http://121.227.25.116:8008","userName":"","password":"","type":"alist"},
-        {"name":"飞吻","server":"http://www.fenwe.tk:5244","userName":"","password":"","type":"alist"},                  
-        {"name":"小兵组网盘影视","server":"https://6vv.app","userName":"","password":"","type":"alist"},
-        {"name": "小雅的公益网盘","server": "http://43.139.29.179:5244","type": "alist"},
-        {"name": "小雅的盘（已分类）",
-   "server": "http://43.139.29.179:5245",
-   "type": "alist"},
-        {"name": "小雅的盘pro",
-   "server": "http://alist.xiaoya.pro/",
-   "type": "alist"}],
 	"sites": [
 	//SP
 	    {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩合辑┃SP","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/bili.json"},
@@ -146,7 +40,7 @@ PLUTO_ENCRYPT {
         {"key":"csp_DiDuan" ,"name":"⏮️低端影视┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
         {"key":"csp_Bd","name":"📣哔嘀影视┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_jihuang","name":"🎭剧荒影视┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_555","name":"5️⃣555┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_555","name":"👗555电影┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_ZJMiao","name":"🐈追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Zjdr","name":"🥷追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"IKan","name":"👁‍🗨爱看影视┃SP","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
@@ -226,7 +120,7 @@ PLUTO_ENCRYPT {
         {"key":"csp_xbb_稀饭影视","name":"🥗稀饭影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/稀饭影视.json"},
         {"key":"csp_xbb_维奇动漫","name":"🎛维奇动漫┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/维奇动漫.json"},	
         {"key":"csp_xbb_韩剧佬","name":"💄韩剧佬┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/韩剧佬.json"},  
-        {"key":"csp_biubiu_555电影","name":"5️⃣555┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/555.json"},
+        {"key":"csp_biubiu_555电影","name":"👗555电影┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/555.json"},
         {"key":"csp_biubiu_真不卡cerrd","name":"🗃真️不卡影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/zhenbuka.json"},
         {"key":"csp_biubiu_奇优影院ns","name":"👔奇优影院┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xb/qiyou.json"},
         {"key":"饭团HD","name":"🍙饭团影视┃XB","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xb/饭团影视.json"},
@@ -285,7 +179,10 @@ PLUTO_ENCRYPT {
     {"name" : "油果","type" : 1,"url" : "http://json.youguo520.top/fufeng/?url=","ext" : {"header" : {"User-Agent" : "Dart/2.14(dart:io)"}}},
     {"name" : "懒懒1","type" : 1,"url" : "http://123.57.56.94:9931/lanlan/?url="},
     {"name" : "EXO","type" : 0,"url" : "https://rx.69mj.com/?url="},
-    {"name" : "懒懒2","type" : 1,"url" : "http://lanlan.ckflv.cn/?url="}],
+    {"name" : "懒懒2","type" : 1,"url" : "http://lanlan.ckflv.cn/?url="},
+    {"name":"可遇不可求","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
+    {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+    {"name":"rx2","type":1,"url":"http://rxjx.kuanjv.com/allm3u8.php?url="}],
 	"flags": ["youku", "qq", "iqiyi", "imgo", "xueren", "m1905", "qiyi", "letv", "sohu", "tudou", "pptv", "dbm3u8", "mgtv", "wasu", "bilibili", "le", "duoduozy", "renrenmi", "xigua", "优酷", "西瓜", "乐视", "芒果", "腾讯", "爱奇艺", "奇艺", "ltnb", "rx", "CL4K", "xfyun", "wuduzy", "哔哩哔哩", "哔哩"],
 	"ijk": [{
 		"group": "软解码",
@@ -434,4 +331,3 @@ PLUTO_ENCRYPT {
 ],
 	"ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"]
 }
-PLUTO_ENCRYPT;
