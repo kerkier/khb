@@ -25,7 +25,7 @@
         {"key":"csp_Lezhu","name":"🐷乐猪影视┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_GitCafe","name":"📜小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alitoken.json"},
-		{"key":"Yisou","name":"🔍易搜┃搜索","type":3,"api":"csp_Yiso","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
+		{"key":"Yisou","name":"🔍易搜┃搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
 		{"key":"Alips","name":"🐱喵搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
 		{"key":"Zhaozy","name":"🏥找资源┃搜索","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
 		{"key":"Upyunso","name":"🦶云搜┃搜索","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
