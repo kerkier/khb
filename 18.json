@@ -1,4 +1,4 @@
-{"spider":"./jar/18.jar;md5;d654747e1278802ffce530c6be333059"},
+{"spider":"./jar/18.jar;md5;d654747e1278802ffce530c6be333059",
 "sites": 
 {
       "key": "AList",
@@ -713,8 +713,7 @@
 
 //
 {"key":"myg","name":"Myg资源","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"f2d","name":"f2d采集","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0}
-],
+{"key":"f2d","name":"f2d采集","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1,"filterable":0},
 //解X设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
