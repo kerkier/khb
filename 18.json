@@ -1,5 +1,5 @@
 {"spider":"./jar/18.jar;md5;d654747e1278802ffce530c6be333059",
-"sites": 
+"sites": [
 {
       "key": "AList",
       "name": "AList",
@@ -708,7 +708,7 @@
 {"key":"caiji23","name":"夜夜撸㊙","type":0,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"caiji24","name":"大屌丝㊙","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/mc10/vod/xml","searchable":0,"quickSearch":0},
 {"key":"caiji25","name":"咪咪㊙","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/mc10/vod/xml","searchable":0,"quickSearch":0},
-{"key":"caiji26","name":"鲍鱼㊙","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"caiji26","name":"鲍鱼㊙","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/xml","searchable":0,"quickSearch":0}],
 
 
 //
