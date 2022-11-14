@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;89c9eaec380dc16ec274b772346270ba",
+    "spider": "./jar/hh.jar;md5;584cf995e74404a61ca9de91c920ecc3",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
@@ -16,6 +16,7 @@
 		{"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_kuaikan","name":"👀快看影视┃SP","type":3,"api":"csp_Kuaikan","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_AppTT","name":"🖼图图影视┃SP","type":3,"api":"csp_AppTT","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"csp_Vofl","name":"🌀Voflix┃SP","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Bttoo","name":"🥂BTToo┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Czsapp","name":"🧛厂长资源┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Ysgc","name":"🏭影视工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
@@ -50,7 +51,7 @@
 		{"key":"csp_Smdyy","name": "🐎神马影视┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_Lgyy","name": "🌈蓝光影院┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_fant","name":"🍙饭团影视┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-		{"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjo1MzE4LCJDcmVhdGVkQXQiOiIyMDIyLTAzLTE4VDE5OjI0OjM2LjkzOCswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDktMDVUMTA6NTY6MjguMDAzKzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMzExMTI0ODcwMEBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiJiOGIwNmU2ZS1jZjkwLTQ1NDItYmVjMS05NDk4OGVhMDE4NGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjoiMjAyMi0wOS0wNVQxMDo1NjoyOC4wMDIrMDg6MDAiLCJyZWdfa2V5IjoiOTg4MTUxMzUiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjYzMDI2NTAyLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.m92i6og64WbwmCHYnI9CWL--Y1NwdMhvH4-Kn6FmPk8"},
+		{"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"},
         {"key":"csp_Yj1211","name": "📽直播合集┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Anime1","name": "🌸日漫合集┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
