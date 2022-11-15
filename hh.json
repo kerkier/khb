@@ -1,7 +1,7 @@
 {
     "spider": "./jar/hh.jar;md5;584cf995e74404a61ca9de91c920ecc3",
 	"wallpaper": "http://刚刚.live/图",
-	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2tlcmtpZXIva2hiL3Jhdy9icmFuY2gvbWFpbi9oaC50eHQ="]}],
+	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2FnaXQuYWkva2Vya2llci9raGIvcmF3L2JyYW5jaC9tYWluL2hoLnR4dA=="]}],
 "epg":"http://epg.51zmt.top:8000/api/diyp/"}],
 	"sites": [
 	//SP
