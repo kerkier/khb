@@ -4,8 +4,8 @@
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
 	"sites": [
-	//SP
-	    {"key":"T4_douban","name":"🖌影视推荐┃T4","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":0},
+	    {"key":"js豆瓣","name":"🖌豆瓣热播┃DR首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+        {"key":"t4豆瓣","name":"🖌豆瓣荐片┃T4首页","type":4,"api":"http://top.fuqizhishi.com/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 		{"key":"csp_SP360","name":"🎞360影视┃官采","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Nmys","name":"👨‍🌾农民影视┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 		{"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
