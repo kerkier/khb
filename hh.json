@@ -1,6 +1,6 @@
 {
     "spider": "./jar/hh.jar;md5;c9d75e45b5787511f5f35981c72e225e",
-	"wallpaper": "http://刚刚.live/图",
+	"wallpaper": "http://饭太硬.ml/深色壁纸/api.php",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
 	"sites": [
@@ -160,6 +160,7 @@
 		"type": 2,
 		"url": "Sequence"
 	},
+    {"name":"M3U8","type":1,"url":"https://m3u8.co/api/?key=0oiDJ3sguJ2EvEvIyw&url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 	{"name": "OKjx嗅探","type": 0,"url": "https://okjx.cc/?url="},
     {"name":"Nxflv嗅探","type":0,"url":"https://www.nxflv.com/?url="},
