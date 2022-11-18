@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;c9d75e45b5787511f5f35981c72e225e",
+    "spider": "./jar/hh.jar;md5;17b6fe202bd06833bcf9accf953f8563",
 	"wallpaper": "http://饭太硬.ml/深色壁纸/api.php",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
@@ -31,7 +31,6 @@
         {"key":"csp_Dy1010","name":"⛪双十电影┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Nkdy","name":"🗽南柯电影┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Tkys","name": "📡天空影视┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
-        //{"key":"csp_SP293","name":"🎟293┃SP","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_DiDuan" ,"name":"⏮️低端影视┃SP","type":3,"api":"csp_Ddrk","click": "ddys.tv;#vjsp > button","searchable":1,"quickSearch":1,"filterable":0},
         {"key":"csp_Bd","name":"📣哔嘀影视┃SP","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_jihuang","name":"🎭剧荒影视┃SP","type":3,"api":"csp_Juhuang","searchable":1,"quickSearch":1,"filterable":1},
@@ -90,6 +89,8 @@
         {"key":"csp_xBPQ_子子","name":"📃子子┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/子子影视.json"},
         {"key":"csp_xBPQ_um","name":"🏦UM影院┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/umkan.json"},
         {"key":"cl_bdys","name":"📣哔嘀磁力┃XBPQ","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xbpd/bdyscl.json"},
+        {"key":"csp_xBPQ_短视频","name":"📽短视频┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/短视频.json"},
+{"key":"csp_xBPQ_电视直播","name":"🗼电视直播┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/电视直播.json"},
 
         {"key":"csp_XYQBiu_万能影院","name": "🐉万能影院┃XYQ","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQxb/万能影院.json"},
         {"key":"csp_XYQBiu_大米星球","name":"⭐大米星球┃XYQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQxb/大米星球.json"},
