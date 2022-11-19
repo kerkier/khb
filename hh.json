@@ -4,8 +4,8 @@
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
 	"sites": [
-	    {"key":"js豆瓣","name":"🖌豆瓣热播┃DR首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
-	    {"key":"t4豆瓣","name":"🖌豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
+	    {"key":"js豆瓣","name":"🖌豆瓣热播┃DR","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+	    {"key":"t4豆瓣","name":"🖌豆瓣荐片┃T4","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 		{"key":"csp_SP360","name":"🎞360影视┃官采","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Nmys","name":"👨‍🌾农民影视┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 		{"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -38,14 +38,12 @@
         {"key":"csp_555","name":"👗555电影┃SP","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_ZJMiao","name":"🐈追剧喵┃SP","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Zjdr","name":"🥷追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"IKan","name":"👁‍🗨爱看影视┃SP","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ts.jar;md5;456e591b3f88da9e9398e33d657d2a9a"},
         {"key":"csp_Mjxq","name":"🌏美剧星球┃SP","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_EEEDY","name":"☘️飘花影视┃SP","type":3,"api":"csp_EEEDY","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Wmkk","name":"🦋完美看看┃SP","type":3,"api":"csp_Wmkk","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Smdyy","name": "🐎神马影视┃SP","type": 3,"api": "csp_Smdyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_Lgyy","name": "🌈蓝光影院┃SP","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
 		{"key":"csp_fant","name":"🍙饭团影视┃SP","api":"csp_Fantuan","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-		{"key":"csp_Jianying","name":"✨简影┃SP","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4OTMzOTg1LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.XS8N8Q01_7TaoMGS_Y2phW8a-lZIVA8b7Bbsoq90EMY"},
         {"key":"csp_Yj1211","name": "📽直播合集┃SP","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Anime1","name": "🌸日漫合集┃SP","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
@@ -76,7 +74,7 @@
         {"key":"csp_xBPQ_在线","name":"🖥️️在线之家┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/在线之家.json"},
         {"key":"csp_xBPQ_酷客","name":"🥢酷客影院┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/酷客影院.json"},
         {"key":"csp_xBPQ_蓝光","name":"🌈蓝光影院┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/蓝光.json"},	
-        {"key":"csp_xBPQ_不卡","name":"🗃真不卡影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
+        {"key":"csp_xBPQ_不卡","name":"🗃真不卡┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/不卡.json"},
         {"key":"csp_xBPQ_98","name":"🍸98影┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/98影院.json"},
         {"key":"csp_xBPQ_极品","name":"👠极品影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/极品.json"},	
         {"key":"csp_xBPQ_cs","name":"️🛐FREEOK┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/freeok.json"},
@@ -146,7 +144,7 @@
         {"key":"csp_BBB","name":"👨‍👩‍👦‍👦哔哩合辑┃SP","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/bili.json"},
 		{"key":"csp_Alist","name":"🎾Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alist.json"},
 		{"key":"csp_bendi","name":"🏓本地文件","type":3,"api":"csp_LocalFile","searchable":1,"quickSearch":0,"filterable":1,"type_flag":1},
-		{"key":"push_agent","name":"🎯推送┃爱优腾/云盘/磁力","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"}
+		{"key":"push_agent","name":"🎯推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"}
 ],
 	"parses": [{
 		"name": "解析聚合",
