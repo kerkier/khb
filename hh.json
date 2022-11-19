@@ -1,10 +1,11 @@
 {
-    "spider": "./jar/hh.jar;md5;17b6fe202bd06833bcf9accf953f8563",
+    "spider": "./jar/hh.jar;md5;50041e58be27b2d9e9f67780b22f1773",
 	"wallpaper": "http://饭太硬.ml/深色壁纸/api.php",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
 	"sites": [
 	    {"key":"js豆瓣","name":"🖌豆瓣热播┃DR首页","type":3,"api":"http://xn--m7r412advb92j21st65a.tk/dr/影魔.js","ext":"http://xn--m7r412advb92j21st65a.tk/dr/js/豆瓣.js","searchable": 0,"quickSearch": 0,"filterable": 0},
+	    {"key":"t4豆瓣","name":"🖌豆瓣荐片┃t4首页","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 		{"key":"csp_SP360","name":"🎞360影视┃官采","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 		{"key":"csp_Nmys","name":"👨‍🌾农民影视┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
 		{"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -67,7 +68,8 @@
         {"key":"csp_XYQBiu_酷奇","name": "🎤明星MTV┃XYQ","type": 3,"api": "XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQxb/酷奇MV.json"},
         {"key":"csp_XYQBiu_虎牙直播","name":"🐯虎牙┃XYQ","type":3,"api":"XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/虎牙直播.json"},
         {"key":"csp_XYQBiu_斗鱼","name":"🐟斗鱼┃XYQ","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"./XYQxb/斗鱼直播.json"},
-        {"key":"csp_XYQBiu_聚合短视频","name":"📽️短视频┃XYQ","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":1,"ext":"./XYQxb/分享短视频.json"},
+        {"key":"csp_xBPQ_短视频","name":"📽短视频┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/短视频.json"},
+{"key":"csp_xBPQ_电视直播","name":"🗼电视直播┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/电视直播.json"},
         
 	    //{"key":"csp_xBPQ_coke","name":"⛲coke┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/coke.json"},
         //{"key":"csp_xBPQ_工场","name":"🏭影视工厂┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/影视工场.json"},
@@ -89,8 +91,6 @@
         {"key":"csp_xBPQ_子子","name":"📃子子┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/子子影视.json"},
         {"key":"csp_xBPQ_um","name":"🏦UM影院┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/umkan.json"},
         {"key":"cl_bdys","name":"📣哔嘀磁力┃XBPQ","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "./xbpd/bdyscl.json"},
-        {"key":"csp_xBPQ_短视频","name":"📽短视频┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/短视频.json"},
-{"key":"csp_xBPQ_电视直播","name":"🗼电视直播┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/电视直播.json"},
 
         {"key":"csp_XYQBiu_万能影院","name": "🐉万能影院┃XYQ","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQxb/万能影院.json"},
         {"key":"csp_XYQBiu_大米星球","name":"⭐大米星球┃XYQ","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQxb/大米星球.json"},
