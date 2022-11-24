@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;76609e74024a9d5d37e0cb6f20ec44bc",
+    "spider": "./jar/hh.jar;md5;9d768be18080c6f5437bbe29ac6484bc",
 	"wallpaper": "http://饭太硬.ml/深色壁纸/api.php",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
@@ -16,7 +16,6 @@
 	    {"key":"csp_Bttoo","name":"🥂BTToo┃SP","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 	    {"key":"csp_GitCafe","name":"📜小纸条┃云盘","type":3,"api":"csp_Gitcafe","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/alitoken.json"},
 	    {"key":"csp_Czsapp","name":"🧛厂长资源┃SP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
-        {"key":"csp_Ysgc","name":"🏭影视工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_apple","name":"🍎小苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_77","name":"💓七七┃SP","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Auete","name":"🐼Auete┃SP","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},	
@@ -31,6 +30,8 @@
         {"key":"csp_Zjdr","name":"🥷追剧达人┃SP","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Nkdy","name":"🗽南柯电影┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Nmys","name":"👨‍🌾农民影视┃SP","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/nmys.json"},
+        {"key":"csp_Jianying","name":"✨简影丨SP","api":"csp_JianYing","type":3,"playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"},
+        {"key":"csp_Ysgc","name":"🏭影视工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Tkys","name": "📡天空影视┃SP","type": 3,"api": "csp_Tkys","searchable": 1,"quickSearch": 1,"filterable": 1},
         {"key":"csp_Lezhu","name":"🐷乐猪影视┃SP","type":3,"api":"csp_Lezhu","searchable":1,"quickSearch":1,"filterable":1},
         {"key":"csp_Xxys","name":"🐻小熊┃SP","type":3,"api":"csp_Xxys","searchable":1,"quickSearch":1,"filterable":1},
@@ -73,7 +74,7 @@
 		{"key":"Alips","name":"🐱喵搜┃搜索","type":3,"api":"csp_AliPS","playerType":1,"searchable":1,"quickSearch":1,"selectable":0,"filterable":0,"ext":"./json/alitoken.json"},
         
 		{"key":"csp_xBPQ_骚火","name":"🔥骚火电影┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/骚火电影.json"},
-        {"key":"csp_xBPQ_胖虎","name":"🐻胖虎影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/胖虎影视.json"},
+        {"key":"csp_xBPQ_胖虎","name":"🤡胖虎影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/胖虎影视.json"},
         {"key":"csp_xBPQ_素白白","name":"🪴素白白影视┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/素白白.json"},
         {"key":"csp_xBPQ_鸭奈飞","name":"🦆鸭奈飞┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/鸭奈飞.json"},
         {"key":"csp_xBPQ_98","name":"🍸98影院┃XBPQ","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./xbpq/98影院.json"},
