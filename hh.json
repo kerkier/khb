@@ -137,7 +137,7 @@
 		"type": 2,
 		"url": "Sequence"
 	},
-    {"name":"Q1解析","type":1,"url":"http://150.158.175.250:88/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
+    {"name":"💋So丶","type":0,"url":" https://tljiaqing.nde.tw/m3u8/?url="},
     {"name":"野","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
     {"name":"刚佬解析","type":1,"url":"https://play.fuqizhishi.com/jx2/API.php?appkey=iiiixiaobai&url="},
     {"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
