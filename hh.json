@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;0827c3193cc497fd48a3f08f3d80a608",
+    "spider": "./jar/hh.jar;md5;55f96ee7a86fcc5b5a98a0528aa30c8e",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
