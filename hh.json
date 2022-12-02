@@ -1,5 +1,5 @@
 {
-    "spider": "./jar/hh.jar;md5;54aa573b8ea45a624c1d358e5ac03ca3",
+    "spider": "https://raw.fastgit.org/kerkier/khb/main/jar/hh.jar;md5;54aa573b8ea45a624c1d358e5ac03ca3",
 	"wallpaper": "http://刚刚.live/图",
 	"lives": [{"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=./hh.txt"]}]}],
 
